@@ -10,13 +10,6 @@ This project implements a simple rule-based chatbot using Python. The chatbot in
 - Easy to extend with new intents and responses
 - No external libraries required
 
-## 3. Folder Structure
-
-simple_rule_based_chatbot/
-│
-├── simple_chatbot.py
-├── chat_history.txt
-└── README.md
 
 ## 4. How the Chatbot Works
 1. User enters a text message.

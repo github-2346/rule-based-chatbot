@@ -10,8 +10,7 @@ This project implements a simple rule-based chatbot using Python. The chatbot in
 - Easy to extend with new intents and responses
 - No external libraries required
 
-
-## 4. How the Chatbot Works
+## 3. How the Chatbot Works
 1. User enters a text message.
 2. The program detects the intent using basic pattern rules.
 3. The chatbot responds based on:
@@ -20,7 +19,7 @@ This project implements a simple rule-based chatbot using Python. The chatbot in
    - Fallback response
 4. Every message is stored in a conversation log.
 
-## 5. How to Run the Project
+## 4. How to Run the Project
 1. Make sure Python 3.x is installed.
 2. Open the project folder.
 3. Launch Command Prompt in the folder.
@@ -28,8 +27,7 @@ This project implements a simple rule-based chatbot using Python. The chatbot in
 
 python simple_chatbot.py
 
-
-## 6. Sample Commands
+## 5. Sample Commands
 - hi
 - help
 - who are you
@@ -39,4 +37,3 @@ python simple_chatbot.py
 - bye
 
 
-Created for educational use as a demonstration of fundamental AI and NLP concepts.

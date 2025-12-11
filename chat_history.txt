@@ -1,0 +1,6 @@
+[2025-12-11 23:59:54] User: help
+[2025-12-11 23:59:54] Bot: I can do a few things:
+• Greet you (say hi/hello)
+• Answer small talk (try: 'who are you', 'how are you')
+• Answer simple computer networks questions (OSI layers, TCP vs UDP, routers, switches, IP address)
+• You can type 'bye' or 'exit' to end the chat.
